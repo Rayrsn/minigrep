@@ -1,0 +1,6 @@
+/target
+/.vscode
+/.history
+/target
+/Cargo.lock
+/test.txt
